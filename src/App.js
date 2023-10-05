@@ -18,7 +18,8 @@ My name is Robert Lewis, and I'm eager to introduce myself as a software develop
 I've focused on learning the fundamentals of React and Typescript to create user-friendly interfaces. I've also gained insights into building backend systems using Node.js. My enthusiasm and willingness to learn have allowed me to develop projects for local business as a Freelance Developer and I'm looking to bring those skills to a more professional environment.\n
 While I have already applied through the regular channels,  I've attached my resume for your consideration. Please feel free to contact me at Robbysim37@gmail.com or 734-308-9797 to discuss how my initiative and dedication can help your team\n
 Thank you for your time and consideration.
--Robert Lewis`
+-Robert Lewis\n
+Inquiring about recent job opening`
 
   const CopyClipboardClickHandler = async () => {
 

@@ -16,7 +16,7 @@ const InputBox = (props) => {
     <div className="container">
         <p>{props.label}</p>
 
-        <input value={props.emailDetails[`${props.id}`]} 
+        <input className='input' value={props.emailDetails[`${props.id}`]} 
         onChange={inputChangeHandler}
         ></input>
     </div>

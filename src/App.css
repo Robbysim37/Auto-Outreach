@@ -7,6 +7,10 @@
   background-color: grey;
 }
 
+.copy-button {
+  height: 5vh;
+}
+
 .email-details-container {
   display: flex;
   width: 50%;

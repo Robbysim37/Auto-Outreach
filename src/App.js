@@ -50,7 +50,7 @@ Inquiring about recent job opening`
         <InputBox label={"Company:"} id={"company"} setEmailDetails={setEmailDetails}
         emailDetails={emailDetails}></InputBox>
 
-        <button onClick={CopyClipboardClickHandler}>Copy to clipboard</button>
+        <button className='copy-button' onClick={CopyClipboardClickHandler}>Copy to clipboard</button>
       </div>
     </div>
     </>
